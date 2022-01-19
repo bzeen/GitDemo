@@ -36,5 +36,14 @@ public class Login {
         // Write code here that turns the phrase above into concrete actions
     	System.out.println("coming to login 6");
     }
+    
+    @Then("users picture is displayed")
+    public void users_picture_is_displayed() {
+        // Write code here that turns the phrase above into concrete actions
+        System.out.println("users picture is displayed");
+    }
+
+
+
 
 }
