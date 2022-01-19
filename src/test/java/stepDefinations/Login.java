@@ -29,12 +29,12 @@ public class Login {
     @When("user login into applciation using {string} and {string}")
     public void user_login_into_applciation_using_and(String string, String string2) {
         // Write code here that turns the phrase above into concrete actions
-        throw new io.cucumber.java.PendingException();
+    	System.out.println("coming to login 5");
     }
     @Then("users name is displayed at the top right")
     public void users_name_is_displayed_at_the_top_right() {
         // Write code here that turns the phrase above into concrete actions
-        throw new io.cucumber.java.PendingException();
+    	System.out.println("coming to login 6");
     }
 
 }
