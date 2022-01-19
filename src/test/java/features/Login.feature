@@ -7,3 +7,4 @@ Then home page is populated
 And cards are displayed
 And users name is displayed at the top right
 And users picture is displayed
+And a new code is added by user Y

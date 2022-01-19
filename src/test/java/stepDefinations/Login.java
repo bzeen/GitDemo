@@ -43,7 +43,10 @@ public class Login {
         System.out.println("users picture is displayed");
     }
 
-
-
+    @Then("a new code is added by user Y")
+    public void a_new_code_is_added_by_user_y() {
+        // Write code here that turns the phrase above into concrete actions
+        throw new io.cucumber.java.PendingException();
+    }
 
 }
